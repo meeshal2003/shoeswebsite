@@ -1,0 +1,606 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    position: relative;
+    left: 13%;
+}
+
+.container-fluid {
+    height: 70px;
+    position: relative;
+    right: 150px;
+}
+
+#navbarNav1 a {
+    color: white;
+    margin: 20px;
+    position: relative;
+    left: 300px;
+}
+
+.top {
+    text-align: center;
+    background-color: rgb(255, 255, 0);
+    padding: 5px;
+}
+
+.top button {
+    background-color: white;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.top button:hover {
+    border: 1px solid;
+    font-size: 17px;
+}
+
+.d-flex {
+    position: relative;
+    left: 90px;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    font-size: 17px;
+}
+
+.form-control {
+    width: 500px;
+    border-radius: 20px;
+    position: relative;
+    left: 5px;
+}
+
+#navbar a {
+    position: relative;
+    left: 380px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.carousel-inner {
+    width: 100%;
+    padding: 10px;
+}
+
+#fp {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 50px;
+    padding-left: 30px;
+
+}
+
+.card {
+    position: relative;
+    left: 30px;
+    top: 70px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 320px;
+}
+
+.card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card-text {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.card a {
+    background-color: rgb(0, 0, 0);
+    color: rgb(252, 248, 248);
+    border-radius: 5px;
+    border-color: black;
+    width: 286px;
+    padding: 10px;
+    position: relative;
+    right: 16px;
+    border-radius: 0px;
+    font-weight: bold;
+}
+
+.card a:hover {
+    background-color: black;
+    border-color: black;
+    font-size: 17px;
+}
+
+.card-title {
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.card {
+    display: inline-block;
+    margin: 15px;
+}
+
+.card-img {
+    width: 550px;
+    height: 318px;
+}
+
+#card2 {
+    position: relative;
+    top: 150px;
+    left: 85px;
+    border-radius: 0px;
+}
+
+#card2 h5 {
+    font-size: 60px;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 20px;
+}
+
+#card2 a {
+    width: 120px;
+    background-color: yellow;
+    border-color: white;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    bottom: 30px;
+    left: 5px;
+}
+
+#center {
+    position: relative;
+    top: 200px;
+    left: 96px;
+    width: 1142px;
+    padding: 10px;
+    background-color: yellow;
+    font-size: 33px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#center button {
+    background-color: rgba(245, 245, 245, 0.829);
+    color: black;
+    font-size: 22px;
+    border-radius: 0px;
+    padding: 3px;
+    width: 150px;
+    position: relative;
+    left: 100px;
+    font-weight: bold;
+    border-color: yellow;
+}
+
+#center button:hover {
+    font-size: 23px;
+}
+
+#tb {
+    position: relative;
+    top: 270px;
+    left: 30px;
+    color: black;
+    font-size: 37px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.card3 {
+    position: relative;
+    top: 290px;
+    left: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: gainsboro;
+    height: 250px;
+    display: inline-block;
+    margin: 15px;
+}
+
+.card3 a {
+    border-radius: 0px;
+    background-color: rgba(255, 255, 0, 0.897);
+    color: black;
+    padding: 6px;
+    width: 254px;
+    position: relative;
+    top: 33px;
+    right: 16px;
+    font-weight: bold;
+
+}
+
+.card-title3 {
+    text-align: center;
+    font-size: 24px;
+    font-family: monospace;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+
+#FT {
+    position: relative;
+    top: 300px;
+    background-color: yellow;
+    width: 200px;
+}
+
+h4 {
+    color: black;
+    position: relative;
+    top: 70px;
+}
+
+#S a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+#S a:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+#SD {
+    position: relative;
+    bottom: 462px;
+    left: 300px;
+}
+
+#SD a {
+    text-decoration: none;
+    color: black;
+}
+
+#SD a:hover {
+    color: deepskyblue;
+    text-decoration: underline;
+}
+
+.page-footer {
+    position: relative;
+    top: 400px;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.container a:hover {
+    color: rgb(107, 135, 218);
+}
+
+#number {
+    position: relative;
+    bottom: 28px;
+    left: 28px;
+}
+
+#fb a:hover {
+    position: relative;
+    bottom: 5px;
+    color: blue;
+}
+
+#fb {
+    font-size: 22px;
+}
+
+.all {
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    bottom: 20px;
+    right: 15px;
+}
+
+#yt a:hover {
+    color: red;
+    position: relative;
+    bottom: 5px;
+}
+
+#yt {
+    font-size: 22px;
+}
+
+#insta a:hover {
+    color: rgb(211, 9, 211);
+    position: relative;
+    bottom: 5px;
+}
+
+#insta {
+    font-size: 22px;
+}
+
+#twitter a:hover {
+    position: relative;
+    bottom: 5px;
+}
+
+#twitter {
+    font-size: 22px;
+}
+
+.circle-men img {
+    position: relative;
+    top: 350px;
+    left: 100px;
+    width: 220px;
+    margin: -15px;
+    transition: all 0.6s;
+    border-radius: 510px;
+}
+
+.circle-men img:hover {
+    transform: scale(1.1);
+}
+
+#navbarNav img {
+    width: 110px;
+    position: relative;
+    top: 30px;
+    left: 260px;
+    margin: 25px;
+}
+
+#navbarNav img:hover {
+    transform: scale(1.1);
+}
+
+#men-banner {
+    width: 96%;
+    height: 270px;
+    position: relative;
+    top: 350px;
+    border-radius: 0%;
+    padding: 20px;
+    border: 0px;
+}
+
+#men-banner img {
+    width: 100%;
+    border-radius: 0%;
+    position: relative;
+    right: 15px;
+}
+
+#sbsc {
+    position: relative;
+    top: 460px;
+    left: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+#mencards {
+    position: relative;
+    top: 460px;
+    left: 50px;
+    border-radius: 0%;
+    border-color: white;
+    height: auto;
+    margin: 30px;
+}
+
+#mencards img {
+    border-radius: 0%;
+    width: 360px;
+    height: 180px;
+    transition: all 1s;
+}
+
+#mencards img:hover {
+    transform: scale(1.1);
+}
+
+.men-patti {
+    position: relative;
+    top: 500px;
+    left: 80px;
+    background-color: gainsboro;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+    width: 90%;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.men-patti button {
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    border-radius: 0%;
+    width: 230px;
+    padding: 10px;
+    background-color: yellow;
+    color: black;
+    border: 0px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.men-patti button:hover {
+    background-color: yellow;
+    color: black;
+    font-size: 24px;
+}
+
+#sbs {
+    position: relative;
+    top: 550px;
+    left: 50px;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#sbs-cards {
+    position: relative;
+    top: 560px;
+    left: 90px;
+    border-radius: 0%;
+    border: 0px;
+    margin: 30px;
+
+}
+
+#sbs-cards img {
+    border-radius: 0%;
+    transition: all 0.8s;
+}
+
+#sbs-cards img:hover {
+    transform: scale(1.1);
+}
+
+.img-thumbnail {
+    width: 170px;
+    position: relative;
+    top: 520px;
+    left: 50px;
+    border: 1px solid black;
+    border-radius: 0%;
+    margin: 18px;
+    transition: all 1s;
+}
+
+.img-thumbnail:hover {
+    transform: scale(1.1);
+}
+
+.img-fluid {
+    width: 100%;
+    padding: 50px;
+}
+
+#formalpatti {
+    background-color: yellow;
+    padding: 15px;
+    width: 1250px;
+    text-align: center;
+    position: relative;
+    left: 50px;
+    font-size: 34px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#formalpatti button {
+    position: relative;
+    left: 100px;
+    border-radius: 0%;
+    font-size: 22px;
+    width: 200px;
+    background-color: gainsboro;
+    color: black;
+    border: 0px;
+    transition: all 0.5s;
+    font-weight: bold;
+}
+
+#formalpatti button:hover {
+    transform: scale(1.1);
+}
+
+.fp {
+    color: black;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.formal-joseph img {
+    width: 330px;
+    height: auto;
+    margin: -40px;
+    position: relative;
+    top: 60px;
+    left: 60px;
+    transition: all 0.7s;
+}
+
+.formal-joseph img:hover {
+    transform: scale(1.1);
+}
+
+.tos {
+    position: relative;
+    top: 120px;
+    left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.formal-card {
+    position: relative;
+    top: 120px;
+    left: 60px;
+    display: inline-block;
+    margin: 30px;
+    transition: all 1s;
+}
+
+.formal-card:hover {
+    transform: scale(1.1);
+}
+
+.formal-loafers img {
+    width: 350px;
+    margin: -20px;
+    position: relative;
+    top: 110px;
+    left: 40px;
+    transition: all 1s;
+}
+
+.formal-loafers img:hover {
+    transform: scale(1.1);
+}
+
+
+    
+    
+    
+    
